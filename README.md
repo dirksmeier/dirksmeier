@@ -1,8 +1,8 @@
 # Mathias Dirksmeier's README
 
-Hi, I’m Mathias. I’m currently product manager at [neon](https://www.neon-free.ch/). This page is intended to help others understand what it might be like to work with me.
+Hi, I’m Mathias. I’m currently product manager at [neon](https://www.neon-free.ch/). I wrote this page to help others understand what it is like to work with me - primarily but not exclusively for folks that haven't worked with me before.
 
-It’s also a well-intentioned effort at building some trust by being intentionally vulnerable, and to share my ideas of a good working relationship to reduce the anxiety of people who might be on my team. Please feel free to contribute to this page by opening a merge request. 
+It’s also a well-intentioned effort at building trust by being intentionally vulnerable, and to share my ideas of a good working relationship to reduce the anxiety of people who might be on my team. I actively encourage you to contribute to this page by opening a merge request. 
 
 <!--
 Thank you to the people who have contributed improvements or ideas to this document:
