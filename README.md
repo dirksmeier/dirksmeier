@@ -11,21 +11,39 @@ Thank you to the people who have contributed improvements or ideas to this docum
 -->
 
 <!--
-## About me
-I grew up in the Sacramento area of California (go Kings!) and recently lived in Philadelphia, PA in a little house in the Fishtown neighborhood. I've since moved to San Antonio, Texas! 
-* I like taking photos and cooking things for other people. I shoot with a Sony A7R III and use my old Sony A6000 as a webcam on Zoom calls. It's a little overkill, but the creamy blurred background? Chef's kiss.
-* I just got SCUBA certified and I'm excited to go diving in Hawaii this coming March. 
-* I try my best to be actively helpful and kind.
-* I like understanding how systems and people work. My parents described me as a quiet, intense kid that liked to take things around the house apart (particularly our VCR player) and put them back together.
-  * I’m a great deal less serious as an adult, but I still like decomposing things to better understand them. This means I ask “why?” and “what’s the problem we’re trying to solve?” frequently.
-* I try to listen first before acting and always listen deeply. I hope to be fully present in every conversation so I can develop deep empathy for people and their challenges.
-* I have many strong opinions, but they’re weakly held. I love finding a new perspective that makes me change my opinion, because it means that I’ve gotten a chance to learn something substantive and new.
-* I still struggle with imposter syndrome.
+## Some things about me
+I grew up in small-town Germany, a son to the world's capital city for plums - hence my genetic disposition for plum cake. After having lived in various places around the world (Beijing, Kuala Lumpur, Yaoundé, Sunnyvale, ...) I ended up in Zurich, Switzerland. I'm an industrial engineer by training, interned a lot in the automotive industry, then worked in Renewable Energies research before ultimately finding my profession in product management. Definitely no common thread here.
 
-### Values that are extremely important to me
-* Kindness: I strongly believe that you can be kind, empathetic, and caring to those around you while also building a great business. I strive to be a servant leader and make everyone else around me better; I feel enormously privileged and lucky to be doing what I do, and I think it's my responsibility to do as much as I can in service to others and give back out of gratitude.
-* Collaboration: I have opinions that I'll defend, but the best solutions come when we work together as a team to find the best answer. I don't like working in a silo, and I don't wait until I have the "perfect answer" before I share an idea. You shouldn't, either!
-* Diversity: Collaboration only works if we have a diverse set of voices at the table; otherwise, we're just building an echo chamber. It's important to me to do what I can to build a diverse, just, and equitable team and world: it's the right thing to do, but it also results in fundamentally better products. I find inequity abhorrent and I'll always do what I can to use my privilege and resources to level the playing field.
+### Some things I like
+* (Outdoor) sports. I grew up playing soccer but eventually gave it up to have more time for Snowboarding, Climbing, Mountainbiking, Bouldering, Skating, ... yet, I also love to play Badminton, Beachvolleyball, Squash, Spikeball. I guess I simply love to move!
+* With same passion but hardly any talent I like to play on my ramshackle piano or an old guiltar I got from my mom.
+* I also follow some sports quite enthusiastically, and I have a weird obsession with Lewis Hamilton and Lebron James.
+* Being alone. 
+* I spent the covid time converting a transporter to a proper, winter-ready camping van. So I really enjoy working with my hands and spend time away from any computer screen.
+
+### Some things I dislike
+* Being told what to do.
+* Certain types of people (snotty, self-absorbed, superficial, dishonest, deceitful, spineless, cowardly)
+* Brussel sprout.
+* Going with the obvious, easy, boring solution when there is so much potential for getting creative.
+
+### Values that are important to me
+* Boldness: This has many facetes. I like people to be direct with me, just as much as I like to be direct with people. I love to storm ahead and try things out. I am mostly very self-confident and very much willing to err. I value strong opinions and I don't believe in hierarchies.
+* Humility: I strive to understand my weaknesses and get to the core of who I really am. I know that I fail a lot. This knowledge eradicates any reason to create illusional portrayals of myself for others and myself. I also know that I fail a lot at that.
+* Kindness: I find a lot of joy in being kind, empathetic and caring to those around me. That is why I understand myself as a servant leader and want to make everyone else around me better. I feel enormously privilileged in this life and its my duty to give back.
+* Foolishness: I am not taking myself too serious and I can laugh a great deal about myself. I used to hurt myself to cheer up my little sister.
+
+## At work
+
+### My working style
+
+### Things I must improve
+
+### My role
+
+### How you can help me
+
+### What I assume about you
 
 ### 360 Feedback
 In the spirit of transparency, I'll share a summary of 360 feedback from June 2020 in a previous role:
