@@ -9,7 +9,9 @@ Thank you to the people who have contributed improvements or ideas to this docum
 * Jeremy
 * x
 -->
-
+<!--
+Links: https://cutlefish.substack.com/p/product-enablement-principles?utm_source=sendinblue&utm_campaign=UXDX%20Cross%20Functional%20128_copy&utm_medium=email
+-->
 <!--
 ## Some things about me
 I grew up in small-town Germany, a son to the world's capital city for plums - hence my genetic disposition for plum cake. After having lived in various places around the world (Beijing, Kuala Lumpur, Yaoundé, Sunnyvale, ...) I ended up in Zurich, Switzerland. I'm an industrial engineer by training, interned a lot in the automotive industry, then worked in Renewable Energies research before ultimately finding my profession in product management. Definitely no common thread here.
