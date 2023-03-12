@@ -74,3 +74,5 @@ I’m here to help you and hope to do this in a few ways:
 ## Links on stuff that resonated with my own opinions & values:
 * [The handbook of the company Remote](https://remotecom.notion.site/Remote-Handbook-a3439c6ccaac4d5f8c7515c357345c11)
 * [John Cutler on Product Enablement Principles](https://cutlefish.substack.com/p/product-enablement-principles?utm_source=sendinblue&utm_campaign=UXDX%20Cross%20Functional%20128_copy&utm_medium=email)
+* [Andy Jessy on working in the office vs. from home](https://www.aboutamazon.com/news/company-news/andy-jassy-update-on-amazon-return-to-office)
+* [Tom Blomfied on growing Monzo](https://tomblomfield.com/post/691384431502557184/monzo-growth)
