@@ -14,17 +14,17 @@ I grew up in small-town Germany, a son to the world's capital city for plums - h
 * (Outdoor) sports. I grew up playing soccer but eventually gave it up to have more time for Snowboarding, Climbing, Mountainbiking, Bouldering, Skating, ... yet, I also love to play Badminton, Beachvolleyball, Squash, Spikeball. I guess I simply love to move!
 * With same passion but hardly any talent I like to play on my ramshackle piano or an old guiltar I got from my mom.
 * I also follow some sports quite enthusiastically, and I have a weird obsession with Lewis Hamilton, Lebron James and Pat Mahomes.
-* Being alone. 
-* I spent the covid time converting a transporter to a proper, winter-ready camping van. I really enjoy working with my hands and spending time away from any screen.
+* Working with my hands. I spent the covid time converting a transporter to a proper, winter-ready camping van. I really enjoy spending time away from any screen.
+* Being alone.
 
 ### Some things I dislike
 * Being told what to do.
 * Certain types of people (snotty, self-absorbed, superficial, dishonest, deceitful, spineless, cowardly, serious).
 * Brussel sprout.
-* Going with the obvious, easy, boring solution when there is so much potential for getting creative.
+* Going with the obvious, easy, boring solution when there is so much potential for creativity
 
 ### Values that are important to me
-* Boldness: This has many facets. I like people to be direct with me, just as much as I like to be direct with people. I love to storm ahead and try things out. I am most of the time very self-confident and very much willing to err. I value strong opinions and I don't believe in hierarchies.
+* Boldness: This has many facets. I like people to be direct with me, just as much as I like to be direct with people. I love to storm ahead and try things out. I am most of the time very self-confident, but also very much willing to err. I value strong opinions and I don't believe in hierarchies.
 * Humility: I strive to understand my weaknesses and get to the core of who I really am. I know that I fail a lot. This knowledge eradicates any reason to create illusional portrayals of myself for others and myself. I also know that I fail a lot at that.
 * Kindness: I find a lot of joy in being kind; not to be confused with being nice. Kindness is about showing you care about people and their development, about being empathetic. I feel enormously privilileged in this life and its my duty to give back.
 * Foolishness: I am not taking myself too serious and I can laugh a great deal about myself. The same way I approach rather serious matters in life. This can be disturbing to some. I used to hurt myself to cheer up my little sister.
@@ -50,7 +50,7 @@ I grew up in small-town Germany, a son to the world's capital city for plums - h
 ### My role as product leader
 If you’re on my team, I’m here to support you, provide focus and clarity on our most important problems, and to advocate for you and the things you ship. I serve you, and we should optimize the things we do together for the organization. I'm still trying to learn more about setting organizational level focus and get everyone excited about the direction.
 
-I’m here to help you and hope to do this in a few ways:
+I'm trying to help you in a few ways:
 * Provide you with context. I do a lot of communicating with people you might not be otherwise exposed to, and I hope to shield you from things that aren’t as important and provide you with clarity on the things that are.
 * Pair with you on problems. You’ll know your area of the product better than I do, but I’ll be close enough to have some informed thoughts of my own.
 * Help you directly whenever you need it, whether that is by writing documentation, taking meeting notes so that you can focus, or brainstorming ideas with you.
