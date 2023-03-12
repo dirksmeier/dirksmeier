@@ -76,3 +76,4 @@ I'm trying to help you in a few ways:
 * [John Cutler on Product Enablement Principles](https://cutlefish.substack.com/p/product-enablement-principles?utm_source=sendinblue&utm_campaign=UXDX%20Cross%20Functional%20128_copy&utm_medium=email)
 * [Andy Jessy on working in the office vs. from home](https://www.aboutamazon.com/news/company-news/andy-jassy-update-on-amazon-return-to-office)
 * [Tom Blomfied on growing Monzo](https://tomblomfield.com/post/691384431502557184/monzo-growth)
+* [Some advice from Patrick Collison](https://patrickcollison.com/advice)
