@@ -31,6 +31,10 @@ I grew up in small-town Germany, a son to the world's capital city for plums - h
 
 ## At work
 
+<!--
+### Why I work at neon
+-->
+
 ### My working / leadership style
 * I feel a deep ownership for the products I work with. That often leaves me struggling to find a balance between my personal life and my work life. This is an area of growth for me, and I’m grateful to others when they chastise me for working too much.
 * I strongly believe in empowerment. I trust that you are the highest qualified person to take the right decisions about your product. I will always be there to challenge you, or mentor you or just be a buddy for you. That also means, I will hold you accountable to the impact you have on your product and the people around you.
