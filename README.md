@@ -48,6 +48,7 @@ I grew up in small-town Germany, a son to the world's capital city for plums - h
 ### Things I must improve (based on own insights and shared feedback)
 * I have strong opinions. Paired with my sense of ownership, I sometimes give in to my emotions and can come across as harsh and uncompromising.
 * When I hear about a problem, I want to directly contribute to the solution - which isn't always the best use of my time. My TODO list tends to grow exponentially if I don't say "no" to things.
+* Growing up in the outskirts of the German Ruhrgebiet shaped by industrial heritage, multiculturalism and steadfast, unpretentious workers has instilled me with a rather dark/dry humor. I had to learn how this humor can be offensive to some. I need to improve my empathy in these situations and better read social cues.
 * I tell my team to protect their work-life balance; I monitor the amount of time the team takes, and bug people when they're not taking a minimum number of days off. However, I do a poor job of setting a good example by not watching over my own time off. I know that people look far closer at my actions instead of my words.
 * It is a trivial thing to say that I need to listen more, but it is very hard to act on. I am convinced that I learn much more from listening than from talking and often times listening is all that is required from me. I need to find a better balance here, and I think I did a better job at that in my younger years.
 
