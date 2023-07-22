@@ -6,6 +6,7 @@ It’s also a well-intentioned effort at building trust by being intentionally v
 
 Thank you to the people who have contributed improvements or ideas to this document:
 * Jeremy
+* Remo
 
 ## Some things about me
 I grew up in small-town Germany, a son to the world's capital city for plums - hence my genetic disposition for plum cake. After having lived in various places around the world, i.a. China, Malaysia, Cameroon, and California, I ended up in Zurich, Switzerland. I'm an industrial engineer by training, interned a lot in the automotive industry, then worked in Renewable Energies research before ultimately finding my profession in product management. Definitely no common thread here.
