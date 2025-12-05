@@ -70,7 +70,7 @@ I am currently not leading a team, but this is how I used to think about it when
 
 * If you’re on my team, I’m here to support you, provide focus and clarity on our most important problems, and advocate for you and the things you ship. I serve you, and we should optimize the things we do together for the organization. I'm still trying to learn more about setting organizational-level focus and getting everyone excited about the direction.
 * I strongly believe in empowerment. I trust that you are the highest qualified person to take the right decisions about your field of work. I will always be there to challenge you, or mentor you or just be a buddy for you. That also means I will hold you accountable for the impact you have on your product and the people around you.
-* If we have a recurring 1x1, that time belongs to you. These interactions are very important to me and are dedicated to whatever topic you’re interested in discussing with me. They’re not status meetings unless you’d like them to be
+* If we have a recurring 1x1, that time belongs to you. These interactions are very important to me and are dedicated to whatever topic you’re interested in discussing with me. They’re not status meetings unless you’d like them to be.
 
 I'm trying to help you in a few ways:
 * Provide you with context. I do a lot of communicating with people you might not be otherwise exposed to, and I hope to shield you from things that aren’t as important and provide you with clarity on the things that are.
