@@ -7,6 +7,7 @@ It’s also a well-intentioned effort at building trust by being intentionally v
 Thank you to the people who have contributed improvements or ideas to this document:
 * Jeremy
 * Remo
+* Maddy
 
 ## Some things about me
 I grew up in small-town Germany, a son to the world's capital city for plums - hence my genetic disposition for plum cake. After having lived in various places around the world, i.a. China, Malaysia, Cameroon, and California, I ended up in Zurich, Switzerland. I'm an industrial engineer by training, interned a lot in the automotive industry, then worked in Renewable Energies research before ultimately finding my profession in product management. Definitely no common thread until then.
@@ -47,7 +48,7 @@ I grew up in small-town Germany, a son to the world's capital city for plums - h
 * Do thoughtful, good work.
 * Tell me if there's something preventing you from this, and we'll work together on fixing it. Communication is key.
 * Default to action and take ownership. Instead of waiting, move problems forward.
-* Structure is very important to me. Please make use of templates and processes that the team agreed upon.
+* Structure is very important to me. Please make use of templates and processes that the team agreed upon, but share critique openly if they don't make sense for you.
 * Be aware of the example you set for others in the team.
 
 ### My working style
@@ -66,17 +67,18 @@ I grew up in small-town Germany, a son to the world's capital city for plums - h
 * It is a trivial thing to say that I need to listen more, but it is very hard to act on. I am convinced that I learn much more from listening than from talking and often times listening is all that is required from me. I need to find a better balance here, and I think I did a better job at that in my younger years.
 
 ### In my role as a product leader
-I am currently not leading a team, but this is how I used to think about it when I did:
+I am currently not leading a team, but this is how I think and acted about it when I did:
 
 * If you’re on my team, I’m here to support you, provide focus and clarity on our most important problems, and advocate for you and the things you ship. I serve you, and we should optimize the things we do together for the organization. I'm still trying to learn more about setting organizational-level focus and getting everyone excited about the direction.
 * I strongly believe in empowerment. I trust that you are the highest qualified person to take the right decisions about your field of work. I will always be there to challenge you, or mentor you or just be a buddy for you. That also means I will hold you accountable for the impact you have on your product and the people around you.
+* At the same time, I am very likely much more hands-on as a leader than what you're used to. I do feel an obligation to you and your development, but I feel an equal obligation to our users and to building great products. I am aware that at times, these two might conflict with each other. You should know that I make an active effort to contribute to the product. So, be prepared to get very detailed feedback about any of the user interactions you are building.
 * If we have a recurring 1x1, that time belongs to you. These interactions are very important to me and are dedicated to whatever topic you’re interested in discussing with me. They’re not status meetings unless you’d like them to be.
 
 I'm trying to help you in a few ways:
 * Provide you with context. I do a lot of communicating with people you might not be otherwise exposed to, and I hope to shield you from things that aren’t as important and provide you with clarity on the things that are.
 * Pair with you on problems. You’ll know your area of the product better than I do, but I’ll be close enough to have some informed thoughts of my own.
 * Help you directly whenever you need it, whether that is by writing documentation, taking meeting notes so that you can focus, or brainstorming ideas with you.
-* Be an avid supporter of your career path. Your career belongs to you, and I want to cheerlead and support you on your path; this includes exposing you to opportunities that allow you to grow. I don’t want you to be bored!
+* Be an avid supporter of your career path. Your career belongs to you, and I want to cheerlead and support you on your path; this includes exposing you to opportunities that allow you to grow. I don’t want you to be bored! Also, if we have worked in the past, I'll keep supporting you wherever I can.
 
 
 ## Links on stuff that resonated with my own opinions & values:
